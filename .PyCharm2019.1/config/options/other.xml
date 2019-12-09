@@ -1,0 +1,40 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt.191" value="16c280188d3" />
+    <property name="evlsprt2.191" value="16bf39ac698" />
+    <property name="evlsprt3.191" value="18" />
+    <property name="file.chooser.recent.files" value="C:/Tickets" />
+    <property name="file.gist.reindex.count" value="8768" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="15" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Tickets\env\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Tickets\env\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Tickets\env\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

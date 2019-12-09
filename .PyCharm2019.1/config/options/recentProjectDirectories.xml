@@ -1,0 +1,115 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/urls.py" />
+        <option value="C:/DevOps/dotr_helpdesk/dotr_helpdesk" />
+        <option value="$USER_HOME$/AppData/Local/Temp/gene_sched.PRG" />
+        <option value="$USER_HOME$/AppData/Local/Temp/mymail.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/models.py" />
+        <option value="$USER_HOME$/Desktop/django_project" />
+        <option value="$USER_HOME$/AppData/Local/Temp/bar_stacked.py" />
+        <option value="C:/Tickets" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/urls.py" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AppData/Local/Temp/urls.py" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/DevOps/dotr_helpdesk/dotr_helpdesk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1574294151455" />
+              <option name="buildTimestamp" value="1559140101392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Tickets">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561595499551" />
+              <option name="buildTimestamp" value="1559140135641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/bar_stacked.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561626046458" />
+              <option name="buildTimestamp" value="1559140120261" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/gene_sched.PRG">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570699869406" />
+              <option name="buildTimestamp" value="1559140117953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/models.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563160129036" />
+              <option name="buildTimestamp" value="1559140094089" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/mymail.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565155213455" />
+              <option name="buildTimestamp" value="1559140088890" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/urls.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1574294358885" />
+              <option name="buildTimestamp" value="1559140095416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/django_project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.7479.30" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561958315910" />
+              <option name="buildTimestamp" value="1559140139912" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

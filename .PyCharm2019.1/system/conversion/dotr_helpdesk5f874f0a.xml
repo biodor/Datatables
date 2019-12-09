@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\DevOps\dotr_helpdesk\dotr_helpdesk\.idea\dotr_helpdesk.iml" timestamp="1565134239525" />
+    <file path="C:\DevOps\dotr_helpdesk\dotr_helpdesk\.idea\misc.xml" timestamp="1565134239979" />
+    <file path="C:\DevOps\dotr_helpdesk\dotr_helpdesk\.idea\modules.xml" timestamp="1565134240013" />
+    <file path="C:\DevOps\dotr_helpdesk\dotr_helpdesk\.idea\workspace.xml" timestamp="1565136686989" />
+  </project-files>
+</conversion>
+

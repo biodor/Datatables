@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Tickets\.idea\Tickets.iml" timestamp="1561447405586" />
+    <file path="C:\Tickets\.idea\dataSources.local.xml" timestamp="1561456884301" />
+    <file path="C:\Tickets\.idea\dataSources.xml" timestamp="1561454440796" />
+    <file path="C:\Tickets\.idea\libraries\Django_Lib.xml" timestamp="1561447335767" />
+    <file path="C:\Tickets\.idea\misc.xml" timestamp="1561447335600" />
+    <file path="C:\Tickets\.idea\modules.xml" timestamp="1561447335671" />
+    <file path="C:\Tickets\.idea\workspace.xml" timestamp="1561540230643" />
+  </project-files>
+</conversion>
+
